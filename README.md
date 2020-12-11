@@ -2,14 +2,19 @@
 <br/>
 
 ## How to install (DEFAULT or BASIC USAGE)
-	* git clone https://github.com/alfatonn/BotInstagram
-	* cd bot-igeh
-	* unzip node_modules.zip
-	* npm install https://github.com/huttarichard/instagram-private-api
-	* npm audit fix
-	* ls
-	* Then select the tool you want to use!
-	* node filename
+        $ pkg install upgrade && update
+        $ pkg install git
+        $ pkg install python2
+        $ pkg install nodejs-lts
+	$ git clone https://github.com/alfatonn/BotIstagram
+	$ cd BotIstagram
+	$ unzip node_modules.zip
+	$ npm instagram-private-api
+	$ npm audit fix
+	$ ls
+        $ cd BotIstagram
+        $ unzip node_modules.zip
+        $ node index.js
 <br/>
 
 ## For PC/Laptop ONLY:
