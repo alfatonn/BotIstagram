@@ -2,7 +2,7 @@
 <br/>
 
 ## How to install (DEFAULT or BASIC USAGE)
-	* git clone https://github.com/ikiganteng/bot-igeh.git
+	* git clone https://github.com/alfatonn/BotInstagram
 	* cd bot-igeh
 	* unzip node_modules.zip
 	* npm install https://github.com/huttarichard/instagram-private-api
