@@ -1,4 +1,4 @@
-# (Instagram2020_white-(64px).png) Instagram NODE JS API V1
+# ![Image] (Instagram2020_white-(64px).png) Instagram NODE JS API V1
 <br/>
 
 ## How to install (DEFAULT or BASIC USAGE)
