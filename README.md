@@ -19,7 +19,7 @@
         $ pkg install nodejs-lts
         $ git clone https://github.com/alfatonn/BotIstagram
         $ cd BotIstagram
-        $ npm install Instagram-private-api
+        $ npm install instagram-private-api
         $ node index.js
 <br/>
 
