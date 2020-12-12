@@ -12,6 +12,17 @@
 	* node filename
 <br/>
 
+## Cara Menginstall nya:
+        $ pkg install upgrade && update
+        $ pkg install git
+        $ pkg install python2
+        $ pkg install nodejs-lts
+        $ git clone https://github.com/alfatonn/BotIstagram
+        $ cd BotIstagram
+        $ npm install Instagram-private-api
+        $ node index.js
+<br/>
+
 ## For PC/Laptop ONLY:
 	* Download GIT for Windows (https://git-scm.com/download/) *Choose WIN & 32bit/64bit
 	* Download NodeJS (https://nodejs.org/en/download/) *Choose .msi & 32bit/64bit
